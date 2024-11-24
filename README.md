@@ -1,9 +1,13 @@
 <h4>👋 Hi, I'm @fatmanurcaglar, I'm a React Front-End Web, Backend, Native Mobile Developer and Survey Engineer.</h4>
 <h4>A passionate frontend developer from Turkey</h4>
 
-- 🔭 I’m currently focused on **HTML, CSS, JS,**
+- 👀 I’m interested in engineering, software development,technologi and art.
 
-- 📫 How to reach me **fatmanurcaglar33@gmail.com**
+- 💻 I’m currently focused on **HTML, CSS, JS,**
+  
+- 💞️ I look forward to taking part in challenging projects in creative teams.
+
+- 📫 How to reach me: **fatmanurcaglar33@gmail.com**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
