@@ -1,11 +1,11 @@
-<h3 align="center">Hi 👋, I'm @fatmanurcaglar, I'm a React Front-End Web, Backend, Native Mobile Developer and Survey Engineer.</h3>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h4>👋 Hi, I'm @fatmanurcaglar, I'm a React Front-End Web, Backend, Native Mobile Developer and Survey Engineer.</h4>
+<h4>A passionate frontend developer from Turkey</h4>
 
 - 🔭 I’m currently focused on **HTML, CSS, JS,**
 
 - 📫 How to reach me **fatmanurcaglar33@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/fatmanurcaglar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatmanurcaglar" height="30" width="40" /></a>
 <a href="https://instagram.com/fatmanurrcaglarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatmanurrcaglarr" height="30" width="40" /></a>
