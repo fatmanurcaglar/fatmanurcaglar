@@ -1,5 +1,5 @@
 <h4>👋 Hi, I'm @fatmanurcaglar, I'm a React Front-End Web, Backend, Native Mobile Developer and Survey Engineer.</h4>
-<h4>A passionate frontend developer from Turkey</h4>
+
 
 - 👀 I’m interested in engineering, software development,technologi and art.
 
